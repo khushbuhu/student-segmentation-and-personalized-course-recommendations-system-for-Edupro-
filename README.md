@@ -29,6 +29,6 @@ Microsoft Excel
 ## 📂 Dataset (CSV)
 
 [Download xlsx File](https://github.com/khushbuhu/student-segmentation-and-personalized-course-recommendations-system-for-Edupro-/blob/ac331bf54d759a9ab221919a68c706c40bf59a78/EduPro%20Online%20Platform.xlsx)
-[Watch Project Explanation Video](https://1drv.ms/p/c/CA7936912933CC96/IQAtOL91dvzVQo3CgSNiHOY0AQxar2jL0tp-iit5tQf7nJo?e=ChyPmN)
+[Watch Project Explanation Video](https://1drv.ms/v/c/CA7936912933CC96/IQBjexcAlA_kRaalfDaj3dQPAbYnslhsBjnFra9h_sXYgd0?e=fZhhzN)
 
 
