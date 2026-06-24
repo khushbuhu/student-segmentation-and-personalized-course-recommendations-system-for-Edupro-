@@ -12,4 +12,22 @@ Power Query
 DAX
 Microsoft Excel
 ## 📷 Dashboard Preview
-<img src="">
+<img src="https://github.com/khushbuhu/student-segmentation-and-personalized-course-recommendations-system-for-Edupro-/blob/ac331bf54d759a9ab221919a68c706c40bf59a78/page%201.png">
+<br>
+
+<img src="https://github.com/khushbuhu/student-segmentation-and-personalized-course-recommendations-system-for-Edupro-/blob/ac331bf54d759a9ab221919a68c706c40bf59a78/page2.png">
+<br>
+
+<img src="https://github.com/khushbuhu/student-segmentation-and-personalized-course-recommendations-system-for-Edupro-/blob/ac331bf54d759a9ab221919a68c706c40bf59a78/page%203.png">
+<br>
+
+<img src="https://github.com/khushbuhu/student-segmentation-and-personalized-course-recommendations-system-for-Edupro-/blob/ac331bf54d759a9ab221919a68c706c40bf59a78/page%204.png">
+<br>
+## Project Presentation
+
+📊 [View Project Presentation](https://github.com/khushbuhu/student-segmentation-and-personalized-course-recommendations-system-for-Edupro-/blob/ac331bf54d759a9ab221919a68c706c40bf59a78/Presentation1.pptx)
+## 📂 Dataset (CSV)
+
+[Download xlsx File](https://github.com/khushbuhu/student-segmentation-and-personalized-course-recommendations-system-for-Edupro-/blob/ac331bf54d759a9ab221919a68c706c40bf59a78/EduPro%20Online%20Platform.xlsx)
+
+
